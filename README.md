@@ -1,4 +1,4 @@
-# terrapinattack
+# terrapinattack CVE-2023-48795 - SSH Protocol Prefix Truncation Attack
 
 # SSH Debug Proxy
 
